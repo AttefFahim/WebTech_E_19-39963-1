@@ -1,0 +1,13 @@
+[
+    {
+        "Name": "abc",
+        "Email": "abc@gmail.com",
+        "User_Name": "Fahim",
+        "Password": "123456$F",
+        "Gender": "Male",
+        "Date_of_Birth": "2022-03-08",
+        "Image": "images\/images.png",
+        "Id": 1
+    },
+    []
+]
