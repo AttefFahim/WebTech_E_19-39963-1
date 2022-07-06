@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "MD FAHIM ATTEF",
+        "Email": "attefattef1909@gmail.com",
+        "User_Name": "Fahim",
+        "Password": "AA12345678@",
+        "Gender": "Male",
+        "Date_of_Birth": "2022-07-06",
+        "Image": "images\/images.png",
+        "Id": 1
+    },
+    {
+        "Name": "Attef",
+        "Email": "abc@gmail.com",
+        "User_Name": "attef",
+        "Password": "A12345678@",
+        "Gender": "Male",
+        "Date_of_Birth": "2022-07-07",
+        "Id": 2
+    }
+    
+]
